@@ -1,10 +1,10 @@
- //==UserScript==
-// @name         G2G Triple-A Payment Page
-// @namespace    http://tampermonkey.net/
+//==UserScript==
+// @name         Tech de rfmagicien
+// @namespace    _
 // @version      1.0
-// @description  Page de paiement crypto G2G (usage éducatif)
-// @author       Demo
-// @match        *://app.triple-a.io/*
+// @description  timeline script
+// @author       rfmagicien
+// @match        https://app.triple-a.io/*
 // @grant        none
 // ==/UserScript==
 

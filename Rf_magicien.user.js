@@ -1,4 +1,4 @@
- ==UserScript==
+ //==UserScript==
 // @name         G2G Triple-A Payment Page
 // @namespace    http://tampermonkey.net/
 // @version      1.0

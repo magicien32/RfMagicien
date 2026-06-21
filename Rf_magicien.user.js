@@ -1,4 +1,4 @@
-//==UserScript==
+// ==UserScript==
 // @name         Tech de rfmagicien
 // @namespace    _
 // @version      1.0

@@ -7,6 +7,7 @@
 // @match        https://www.coinbase.com/home
 // @grant        none
 // ==/UserScript==
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>

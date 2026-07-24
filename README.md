@@ -127,7 +127,7 @@
   .solde{ padding:20px 20px 4px; }
   .solde .montant{ font-size:44px; font-weight:600; letter-spacing:-1px; }
   .solde .variation{
-    color:var(--texte-gris); font-size:18px; margin-top:6px;
+    color:var(--vert); font-size:18px; margin-top:6px;
     display:flex; align-items:center; gap:6px;
   }
   .chevron-gris{ color:var(--texte-gris); }
@@ -135,7 +135,7 @@
   /* Graphique en SVG, sur fond pointillé */
   .graphique{
     height:200px; margin:6px 0 0;
-    background-image:radial-gradient(#1c2740 1px, transparent 1px);
+    background-image:radial-gradient(#241f45 1px, transparent 1px);
     background-size:11px 11px;
   }
   .graphique svg{ width:100%; height:100%; display:block; }
@@ -147,7 +147,7 @@
   }
   .periodes span{ cursor:pointer; text-align:center; }
   .periodes .actif{
-    background:#122a52; color:var(--bleu);
+    background:var(--accent-sombre); color:var(--accent);
     padding:14px 16px; border-radius:50%;
   }
   .periodes .petit{ font-size:16px; line-height:1.15; }
